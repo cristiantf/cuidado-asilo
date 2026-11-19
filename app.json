@@ -7,7 +7,8 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cristf.cuidadoasilo"
     },
     "android": {
       "adaptiveIcon": {
@@ -16,7 +17,8 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.cristf.cuidadoasilo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +33,12 @@
         }
       ]
     ],
-    "scheme": "cuidadoasilo"
+    "scheme": "cuidadoasilo",
+    "owner": "cristf",
+    "extra": {
+      "eas": {
+        "projectId": "a8f10ed4-1e0a-477d-908b-2d64ca1d657d"
+      }
+    }
   }
 }
