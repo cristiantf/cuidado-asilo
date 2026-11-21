@@ -11,6 +11,7 @@ App móvil para el seguimiento de medicación y cuidados de residentes adultos m
 | [Diagramas UML](diagramas-uml.md) | Casos de uso, clases, componentes, secuencia, estados, actividad, navegación, despliegue (Mermaid) | Todos |
 | [Guía de uso](guia-de-uso.md) | Manual paso a paso para el personal del asilo | Cuidadores, enfermería, coordinación |
 | [Guía de desarrollo](guia-de-desarrollo.md) | Instalación, ejecución, convenciones, recetas, generación del APK | Desarrollo |
+| [Guía didáctica (Word)](Guia-didactica-Cuidado-Asilo.docx) | Construcción completa del proyecto paso a paso en 14 unidades, con código, actividades y rúbrica | Docentes y estudiantes |
 
 ## Resumen en una línea por módulo
 
